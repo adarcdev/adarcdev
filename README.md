@@ -1,4 +1,12 @@
-### Hi there 👋
+![Banner de Condor Coders](banner.png)
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=angel-arredondo.angel-arredondo">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Angel+Arredondo!;Nice+to+meet+you!&center=true&size=35&color=0099FF&width=480&height=53">
+  </a>
+</h1>
 
 <!--
 **angel-arredondo/angel-arredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
